@@ -1,7 +1,7 @@
 {
   "name": "@thomazmz/pino-logger",
   "license": "ISC",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "Thomaz Zandonotto <thomaz.zandonotto@gmail.com>",
   "description": "A Logger implementation for Pino",
   "main": "lib/index.js",
